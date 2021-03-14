@@ -1,0 +1,41 @@
+DStemeratura	KEYWORD1
+
+hasAlarm	KEYWORD2
+setAlarms	KEYWORD2
+getAlarmLow	KEYWORD2
+setAlarmLow	KEYWORD2
+getAlarmHigh	KEYWORD2
+setAlarmHigh	KEYWORD2
+setRegisters	KEYWORD2
+getLowRegister	KEYWORD2
+setLowRegister	KEYWORD2
+getHighRegister	KEYWORD2
+setHighRegister	KEYWORD2
+
+MODEL_DS1820	LITERAL1
+MODEL_DS18S20	LITERAL1
+MODEL_DS1822	LITERAL1
+MODEL_DS18B20	LITERAL1
+
+ SelecionarEndereco        KEYWORD2
+ SelecionaProxSensor       KEYWORD2
+ SelecionarProxAlarme      KEYWORD2
+ RedefinirPesquisa         KEYWORD2
+ ObterTemperaturaCelcius   KEYWORD2
+ ObterTemperaturaFahrenheit KEYWORD2
+ ObterResolucao             KEYWORD2
+ SetarResolucaes            KEYWORD2
+ ObterModoPower             KEYWORD2
+ ObterCodigoFamilia         KEYWORD2
+ ObterEnderecoFisico        KEYWORD2
+ ArrayObterEnderecoFisico   KEYWORD2
+ DecimalObterEnderecoFisico KEYWORD2
+ PrintObterEnderecoFisico   KEYWORD2
+ ObterEndereco              KEYWORD2
+ TConvercao                 KEYWORD2
+ ObterNumeroDespositos      KEYWORD2
+ ObterEnderecos             KEYWORD2
+ ObterQtdDespositivos       KEYWORD2
+ ObterNumerodeDespositos    KEYWORD2
+ ObterCodigoFamiliaString   KEYWORD2
+ ObterModoPowerString       KEYWORD2
